@@ -7,7 +7,7 @@
         </head>
         <body>
             <?php 
-                $endNumber = 7;
+                $endNumber = 22;
                 $sum = 0;
 
                 for($i = 2; $i <= $endNumber; $i += 2):
